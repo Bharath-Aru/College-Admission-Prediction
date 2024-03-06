@@ -1,3 +1,2 @@
-# MACHINE-LEARNING-THEORY-DA-20MIC0055
-Machine Learning Theory DIGITAL ASSESSMENT TOPIC - COLLEGE ADMISSION PREDICTION
-Added extra functionalities like feature engineering, using better model for quicker and best prediction, also performed PCA which increases the accuracyof the datset
+COLLEGE ADMISSION PREDICTION SYSTEM
+  This project focuses on predicting the admisssion chances for a student in a particular college based in their marks.For that this model uses Linear Regression and KNN classifier to accurately predict the results
